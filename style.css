@@ -10,8 +10,27 @@ text-align: center;
 }
 
 h3{
-color: #96ACB7;
-	
+color: #779e99;
+font-size: 24px;
+
+}
+
+li{ 
+	float: left;
+	display: inline-block;
+	list-style: none;
+	margin-right: 90px;
+	padding: 27px 65px ;
+	font-size: 20px;
+
+
+}
+img{
+border: 5px inset #636363;
+border-radius: 15%;
+
+}
+
 }
 
 
